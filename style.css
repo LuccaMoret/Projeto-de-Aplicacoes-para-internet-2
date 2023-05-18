@@ -68,9 +68,8 @@ legend{
     color: var(--banco-de-cores8);
 }
 .container{
-    display: grid;
-    grid-template-columns: auto auto auto ;
-    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 img{
