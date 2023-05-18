@@ -21,7 +21,7 @@
 body{
     background-image: url(./imagens/Background-la-gi.jpg);
     background-repeat: no-repeat;
-    background-size: 1370px 805px;
+    background-size: 100vw, 100vh
 
     
 }
